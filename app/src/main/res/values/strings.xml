@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyTry</string>
+    <string name="text1">Sign Up</string>
+    <string name="text2">Please input email and password</string>
+    <string name="text3"> Sign Up </string>
+    <string name="text4"> Email </string>
+    <string name="tusername"> Username </string>
+    <string name="password"> Password </string>
+    <string name="cpasword"> Confirm Password </string>
+
+</resources>
